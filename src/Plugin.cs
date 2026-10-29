@@ -10,7 +10,7 @@ namespace Cjayride.SteadySail
     {
         public const string PluginGuid = "cjayride.SteadySail";
         public const string PluginName = "Steady Sail";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         public static ConfigEntry<float> SettleSeconds;
         public static ConfigEntry<float> MaxUpSpeed;
